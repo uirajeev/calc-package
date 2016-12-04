@@ -1,0 +1,22 @@
+{
+  "name": "calc-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uirajeev/calc-package.git"
+  },
+  "keywords": [
+    "calculator"
+  ],
+  "author": "rajeev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uirajeev/calc-package/issues"
+  },
+  "homepage": "https://github.com/uirajeev/calc-package#readme"
+}
