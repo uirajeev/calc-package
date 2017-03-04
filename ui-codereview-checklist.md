@@ -30,7 +30,7 @@
 
   1. All user input is “sanitized”
   2. Form elements are paired with labels elements containing the for attribute
-  3. Form label/input pairs are wrapped with a block level element (e.g. <p> or <div>)
+  3. Form label/input pairs are wrapped with a block level element (e.g. '<p>' or '<div>')
   4. Forms are logically arranged within fieldsets
 
 
@@ -53,7 +53,7 @@
   6. CSS sprites are used to combine images
   7. CSS selectors gets more specific across files
   8. CSS shorthand is used for properties that support it
-  9. CSS properties are alphabetical (except for vendor-specific properties) (Why? See: Parable of the brown M&Ms)
+  9. CSS properties are alphabetical (except for vendor-specific properties)
 
 
 ##JavaScript
@@ -65,13 +65,13 @@
   5. Javascript selectors are performant
   6. Javascript objects are cached
   7. Event delegation is used for binding events to 2 or more elements, or ajax'd elements
-  8. Script blocks are placed before the closing <body> tag
+  8. Script blocks are placed before the closing '<body>' tag
   9. Code has been run through JSLint (jslint.com) or JSHint (jshint.com)
 
 
 ##SEO
 
-  1. Uses a valid <title> element with a valid text node
+  1. Uses a valid '<title>' element with a valid text node
   2. Uses description meta data
   3. Uses visible header tags
 
