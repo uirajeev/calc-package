@@ -30,14 +30,14 @@
 
   1. All user input is “sanitized”
   2. Form elements are paired with labels elements containing the for attribute
-  3. Form label/input pairs are wrapped with a block level element (e.g. '<p>' or '<div>')
+  3. Form label/input pairs are wrapped with a block level element (e.g. `<p>` or `<div>`)
   4. Forms are logically arranged within fieldsets
 
 
 ##Accessibility
 
   1. Page has a proper outline (H1-H6 order)
-  2. Alt attributes exist on all <img> elements
+  2. Alt attributes exist on all `<img>` elements
   3. Video is accompanied by a transcript and closed captioning
   4. Events and styles applied to :hover are also applied to :focus
   5. Tabindex order is logical and intuitive
@@ -65,13 +65,13 @@
   5. Javascript selectors are performant
   6. Javascript objects are cached
   7. Event delegation is used for binding events to 2 or more elements, or ajax'd elements
-  8. Script blocks are placed before the closing '<body>' tag
+  8. Script blocks are placed before the closing `<body>` tag
   9. Code has been run through JSLint (jslint.com) or JSHint (jshint.com)
 
 
 ##SEO
 
-  1. Uses a valid '<title>' element with a valid text node
+  1. Uses a valid `<title>` element with a valid text node
   2. Uses description meta data
   3. Uses visible header tags
 
